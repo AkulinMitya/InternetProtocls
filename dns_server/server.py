@@ -77,7 +77,6 @@ class DNSServer:
 
 
 if __name__ == '__main__':
-    # TODO Сделать тип не циферкой а буквами
     server = DNSServer(big_brother='77.88.8.1', port=53, cache_filename="cache.txt")
     try:
         print("The server has started")

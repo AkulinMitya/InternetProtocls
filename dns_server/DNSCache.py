@@ -71,7 +71,6 @@ class DNSCache:
             if len(new_packet.rr) > 0:
                 self.cache[key] = new_packet.pack()
             else:
-                print(key)
                 keys_to_delete.append(key)
 
         for key in keys_to_delete:
