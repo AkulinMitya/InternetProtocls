@@ -9,7 +9,7 @@ py scanner.py hostname port_from port_to
 
 **Примечание**:  
 hostname - имя хоста  
-port_from и port_to - целые числа задающие диапазон сканирования  
+port_from и port_to - натуральные числа задающие диапазон сканирования  
 
 **Пример использования:** 
 ![image](https://user-images.githubusercontent.com/113355579/236762651-62c446a6-87f1-47c1-8e26-bc0797f63a1c.png)
