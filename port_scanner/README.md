@@ -11,5 +11,8 @@ py scanner.py hostname port_from port_to
 hostname - имя хоста  
 port_from и port_to - целые числа задающие диапазон сканирования  
 
-**Пример использования:**  
-![image](https://user-images.githubusercontent.com/113355579/231229081-82c8664f-08a8-4390-8b44-9f872cca6917.png)
+**Пример использования:** 
+![image](https://user-images.githubusercontent.com/113355579/236762651-62c446a6-87f1-47c1-8e26-bc0797f63a1c.png)
+
+
+**Также в видео представлен пример скана UDP портов на localhost**
